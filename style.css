@@ -1,0 +1,80 @@
+body {
+    background: url(./images/screens.jpg);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 24px;
+    background-color: #242d30;
+    color: #fff;
+}
+
+.picture img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.box {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(54, 53, 53, 0.425);
+    text-align: center}
+    
+    p {
+    font-size: 18px;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.spirit {
+    text-align: center;
+    padding: 20px;
+}
+
+.spirit img {
+    max-width: 50%;
+    height: auto;
+}
+
+.spirit p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #2a3f44;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.icons a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.icons img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+button {
+    color: rgb(8, 8, 8);
+    background-color: rgb(81, 255, 0);
+    width: 100px;
+    height: 50px;
+    align-items: center;
+
+    
+    
+}
+
